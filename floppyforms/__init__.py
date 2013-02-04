@@ -7,6 +7,6 @@ from .fields import *
 from .forms import *
 from .models import *
 from .widgets import *
-from . import gis
+# from . import gis
 
 __version__ = '1.0'
